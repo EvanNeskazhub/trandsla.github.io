@@ -1,0 +1,30 @@
+@media screen and (max-width: 620px) {
+  * {
+    /* max-width: 360px; */
+  }
+  .about-us {
+    display: none;
+  }
+  .container-works{
+    display: none;
+  }
+  div.and-the-team{
+    display: none!important;
+  }
+  textarea{
+    width: 100% !important;
+    min-width: 100% !important;
+  }
+  .hero .centry-text h1{
+    font-size: 75px;
+  }
+  div.block {
+    width: 100%;
+  }
+  .ser-item{
+    margin-bottom: 20px;
+  }
+  .st{
+    margin-bottom: 20px;
+  }
+}

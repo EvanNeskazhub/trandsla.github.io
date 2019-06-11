@@ -1,1 +1,1 @@
-# trandsla.github.io
+# trendy.github.io
